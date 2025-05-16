@@ -1,69 +1,41 @@
-# Welcome to your Lovable project
+🧠 AI Image & Video Generator
+An advanced AI-powered app that allows users to generate images and videos from text prompts using the latest AI models. Sleek UI, fast rendering, and smooth user experience — ideal for creators, marketers, and developers.
+![image](https://github.com/user-attachments/assets/33ef272e-1643-45aa-b732-43f5cfe66ffb)
 
-## Project info
 
-**URL**: https://lovable.dev/projects/fafe259a-ff46-45f0-812e-1c598bf4b505
+🎨 Features
+🖼️ Text-to-Image generation
 
-## How can I edit this code?
+🎥 Text-to-Video generation
 
-There are several ways of editing your application.
+⚡ Lightning-fast interface
 
-**Use Lovable**
+🎯 Built with React, Vite, TypeScript, Tailwind CSS, ShadCN UI
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/fafe259a-ff46-45f0-812e-1c598bf4b505) and start prompting.
+🧠 Integrates with advanced AI APIs (like OpenAI or Gemini)
 
-Changes made via Lovable will be committed automatically to this repo.
+🧪 Tech Stack
+React + Vite
 
-**Use your preferred IDE**
+TypeScript
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+Tailwind CSS
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+ShadCN UI
 
-Follow these steps:
+AI APIs for image & video generation
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+🚀 Use Cases
+Content creation
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+Marketing visuals
 
-# Step 3: Install the necessary dependencies.
-npm i
+Creative projects
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+Prototyping concepts
 
-**Edit a file directly in GitHub**
+💼 Developer Info
+Built by Malik Tanveer at MTD Technologies
+🌐 https://malik.mtdtechnologies.com/
+🌐 https://mtdtechnologies.com/
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with .
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/fafe259a-ff46-45f0-812e-1c598bf4b505) and click on Share -> Publish.
-
-## I want to use a custom domain - is that possible?
-
-We don't support custom domains (yet). If you want to deploy your project under your own domain then we recommend using Netlify. Visit our docs for more details: [Custom domains](https://docs.lovable.dev/tips-tricks/custom-domain/)
